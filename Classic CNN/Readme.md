@@ -3,3 +3,6 @@
 ## AlexNet
 1. https://zhuanlan.zhihu.com/p/180554948
 2. https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/Test2_alexnet
+## VGG16
+1. https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/Test3_vggnet
+2. https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py (Pytorch官方源码)
