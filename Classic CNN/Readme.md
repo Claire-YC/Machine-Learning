@@ -10,3 +10,6 @@
 1. https://zhuanlan.zhihu.com/p/92263138 （同时给出了VGG和GoogLeNet的对比）
 2. https://zhuanlan.zhihu.com/p/134141651 （讲解了辅助分类器）
 3. https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_classification/Test4_googlenet （借用了该代码中的权重初始化，对准确率影响很大）
+
+## 其他
+1. [BatchNorm](https://zhuanlan.zhihu.com/p/88347589) (讲的很清晰)
